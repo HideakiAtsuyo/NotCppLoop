@@ -1,1 +1,3 @@
 # NotCppLoop
+
+Imagine if you use this while you're epileptic...
